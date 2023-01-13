@@ -1,0 +1,46 @@
+html, body{
+
+	width: 100%;
+	height: 100%;
+    background: url('hero.jpeg') no-repeat center center fixed;
+
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+
+}
+
+
+}
+hr{
+    margin: 20px auto;
+    color: orange;
+    border: 1px solid orange;
+    max-width: 65px;
+    opacity: 1;  
+
+
+}
+
+.Greet{
+
+	color: white;
+}
+.engage{
+	background-color: orange;
+	border: transparent;
+	border-radius: 300px;
+	text-decoration: none;
+	margin: 10px;
+	padding: 1rem 1rem;
+	text-transform: uppercase;
+
+}
+.engage:hover{
+	background-color: darkorange;
+	transform: scale(1.2);
+	transition: all 1s;
+
+
+}
